@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan Yadav
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web devlopement
+- 🌱 I’m currently learning ...Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me(ky24316@gmail.com)
 
